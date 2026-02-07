@@ -1,1 +1,1 @@
-console.log("LIVE FROM AWS SERVER 4 🚀");
+console.log("LIVE FROM AWS SERVER 5 🚀");
