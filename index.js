@@ -1,1 +1,1 @@
-console.log("FINAL DOCKER CI/CD WORKING 🚀");
+console.log("DEPLOYED FROM JENKINS TO AWS 🚀");
