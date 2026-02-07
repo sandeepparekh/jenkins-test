@@ -1,1 +1,1 @@
-console.log("Auto CI working");
+console.log("deployment test");
