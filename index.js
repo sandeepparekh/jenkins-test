@@ -1,1 +1,1 @@
-console.log("DEPLOYED FROM JENKINS TO AWS 🚀");
+console.log("LIVE FROM AWS SERVER 🚀");
